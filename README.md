@@ -1,4 +1,5 @@
-Belly Button Biodiversity Dashboard # Javascriptchallenge
+Belly Button Biodiversity Dashboard 
+# Javascriptchallenge
 Code Source and Attribution
 The code for the Belly Button Biodiversity Dashboard was developed as part of an assignment for the Interactive Web Visualizations course. The code includes elements of data visualization using Plotly.js and D3.js libraries.
 Requirements
